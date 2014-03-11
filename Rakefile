@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "is_multitenant"
   gem.homepage = "http://github.com/rtomsmith/is_multitenant"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Rails ActiveRecord extension for enforcing multi-tenancy in a shared database}
+  gem.description = %Q{Rails ActiveRecord extension for enforcing multi-tenancy in a shared database. Does NOT use default_scope, instead reyling on the scope_injector gem.}
   gem.email = "tsmith@landfall.com"
   gem.authors = ["Tom Smith"]
   # dependencies defined in Gemfile

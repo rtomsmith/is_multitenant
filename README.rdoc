@@ -1,6 +1,7 @@
 = is_multitenant
 
-Description goes here.
+<Description goes here...>
+
 
 == Contributing to is_multitenant
  
